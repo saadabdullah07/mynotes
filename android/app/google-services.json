@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344959860918",
+    "project_id": "mynotes-flutter-saad",
+    "storage_bucket": "mynotes-flutter-saad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344959860918:android:203d5f19e1388f3b6d6617",
+        "android_client_info": {
+          "package_name": "com.enigmax.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJVcpSiAgVWhFDGfTuexopDWNhyt9TXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
