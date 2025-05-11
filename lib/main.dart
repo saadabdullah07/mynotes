@@ -20,6 +20,7 @@ void main() {
         loginRoute : (context) => const LoginView(),
         registerRoute : (context) => const RegisterView(),
         notesRoute : (context) => const NotesView(),
+        verifyEmailRoute : (context) => const VerifyEmailView(),
       },
     ),
   );
@@ -97,7 +98,7 @@ class _NotesViewState extends State<NotesView> {
               return const [
                 PopupMenuItem <MenuAction> (
                 value: MenuAction.logout,
-                child: const Text('Sign out'),
+                child: Text('Sign out'),
                 ),
               ];
             },
